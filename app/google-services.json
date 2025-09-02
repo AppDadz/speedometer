@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192735472713",
+    "project_id": "speedometer-da31f",
+    "storage_bucket": "speedometer-da31f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192735472713:android:132d4c8360df1fd39ae398",
+        "android_client_info": {
+          "package_name": "speedo.meter.reels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkw4FfXaVS0isWcr7f5E_FByPXwGVUXDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
